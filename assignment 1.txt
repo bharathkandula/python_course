@@ -2,4 +2,4 @@ name = 'Bharath'
 
 age = 21
 
-print("my name is {} and my age is {}".format(name, age))
+print("my name is {} .\n my age is {}".format(name, age))
