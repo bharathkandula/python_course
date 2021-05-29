@@ -1,0 +1,9 @@
+dob = int(input('Enter date of birth:\n'))
+
+
+d = int(2021)
+
+age = d-dob
+
+
+print ('your age is', age)
