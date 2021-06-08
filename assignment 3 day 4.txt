@@ -1,4 +1,6 @@
+#create a program to swap case. Using string functions
+#Input : EdUyEaR
+#Output :.  eDuYeAr
+
 str = input('Enter a string:\n')
-
-
 print(str.swapcase())
