@@ -1,7 +1,6 @@
+#1.use string functions to count the occurrence of 'y' in a word given by user.
+#2.take input of a string and print it's even indexed characters
+
 str = input('enter a string:\n')
-
-
 print (str[0:len(str):2])
-
-
 print(str.count('y'))
