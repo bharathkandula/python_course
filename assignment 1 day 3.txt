@@ -1,9 +1,7 @@
-dob = int(input('Enter date of birth:\n'))
+#AGE CALCULATOR 
+#calculate Age of a person - User should enter the year of birth and the program should output the age.. eg : entered value is 1990, output age is 30
 
-
-d = int(2021)
-
-age = d-dob
-
-
+dob = int(input('Enter year of birth:'))
+cy = int(input('enter current year:'))
+age = cy-dob
 print ('your age is', age)
