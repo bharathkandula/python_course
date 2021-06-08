@@ -1,3 +1,5 @@
+#print minimum and maximum values in a list
+
 list = [2, 6, 12, 56, 12, 3234, 7861, 5, 3, 7, 843, 9]
 
 #for taking input
