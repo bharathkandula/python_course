@@ -1,17 +1,12 @@
-a = int(input('enter num:\n'))
+#Simple Calculator:
+#get 2 numbers from the user and print the result of addition, subtraction, multiplication and floor division, decimal division, remainder, power of the input numbers
 
+a = int(input('enter num:\n'))
 b = int(input('enter num:\n'))
 
-
-
 print(a+b)
-
 print(a-b)
-
 print(a*b)
-
 print(a/b)
-
 print(a**b)
-
 print(a%b)
